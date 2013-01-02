@@ -19,6 +19,6 @@ echo https://api.github.com/repos/sente/add_julython_hooks/hooks
 curl -X GET -u $USER:$PASS https://api.github.com/repos/sente/add_julython_hooks/hooks
 
 echo
-echo https://api.github.com/repos/sente/add_julython_hooks/hooks/625472
-curl -X GET -u $USER:$PASS https://api.github.com/repos/sente/add_julython_hooks/hooks/625472
+echo https://api.github.com/repos/sente/add_julython_hooks/hooks/625737
+curl -X GET -u $USER:$PASS https://api.github.com/repos/sente/add_julython_hooks/hooks/625737
 

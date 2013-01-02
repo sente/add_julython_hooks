@@ -1,0 +1,23 @@
+{
+  "config": {
+    "insecure_ssl": "1",
+    "content_type": "json",
+    "url": "http://www.julython.org/api/v1/github"
+  },
+  "created_at": "2013-01-02T23:36:15Z",
+  "active": true,
+  "events": [
+    "push",
+    "pull_request"
+  ],
+  "url": "https://api.github.com/repos/sente/add_julython_hooks/hooks/625737",
+  "test_url": "https://api.github.com/repos/sente/add_julython_hooks/hooks/625737/test",
+  "updated_at": "2013-01-02T23:37:35Z",
+  "name": "web",
+  "last_response": {
+    "status": "ok",
+    "message": "OK",
+    "code": 200
+  },
+  "id": 625737
+}
