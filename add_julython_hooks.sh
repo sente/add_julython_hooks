@@ -16,6 +16,7 @@ JSON=$(cat - <<"END"
       "name": "web",
       "active": true,
       "events": [
+        "commit",
         "push",
         "pull_request"
       ],
