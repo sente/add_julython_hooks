@@ -29,3 +29,6 @@ END
 );
 
 curl -X POST -u "${USERNAME}" -d "$JSON" "https://api.github.com/repos/${USERNAME}/${REPO}/hooks"
+
+#why this isn't yet working, I don't know
+
