@@ -4,7 +4,7 @@
 # bash add_julython_hooks.sh USERNAME REPONAME
 
 # example:
-# bash add_julython_hooks.sh sente 
+# bash add_julython_hooks.sh sente cloud9
 #   this will add a hook to my http://github.com/sente/cloud9/ repo
 
 
