@@ -6,4 +6,5 @@ This is a script to add julython hooks
 
 `bash add_julython_hooks.sh USERNAME REPONAME`
 
-testing..
+
+This should work..
