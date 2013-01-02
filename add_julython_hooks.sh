@@ -22,7 +22,8 @@ JSON=$(cat - <<"END"
       ],
       "config": {
         "url": "http://www.julython.org/api/v1/github",
-        "content_type": "json"
+        "content_type": "json",
+        "insecure_ssl": "1"
       }
     }
 END
