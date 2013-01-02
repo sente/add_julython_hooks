@@ -16,7 +16,7 @@ if you run in a terminal:
 edit add_hook_test.sh, change: 'sente.cc:7700' to a domain:port of your choosing and then run it: `bash add_hook_test.sh`
 
 and then commit your changes and push to github:
-you'll see: http://i.imgur.com/YsNal.png
+you'll see: http://i.imgur.com/YsNal.png - So our test hook works... But not Julython's
 
 
 
