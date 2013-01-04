@@ -21,7 +21,7 @@ JSON=$(cat - <<"END"
         "pull_request"
       ],
       "config": {
-        "url": "http://sente.cc/git-hooks",
+        "url": "http://sente.cc/scripts/git-hooks",
         "content_type": "json",
         "insecure_ssl": "1"
       }
