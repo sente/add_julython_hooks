@@ -1,6 +1,9 @@
 add_julython_hooks
 ==================
 
+
+## soon this will all be python :)
+
 This is a script to add julython hooks
 
 
