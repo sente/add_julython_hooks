@@ -22,12 +22,14 @@ JSON=$(cat - <<"END"
       ],
       "config": {
         "url": "http://www.julython.org/api/v1/github",
-        "content_type": "json",
+        "content_type": "form", 
         "insecure_ssl": "1"
       }
     }
 END
 );
+
+#turns out it IS supposed to a `form` type
 
 curl -X POST -u "${USERNAME}" -d "$JSON" "https://api.github.com/repos/${USERNAME}/${REPO}/hooks"
 
